@@ -1,5 +1,4 @@
 变色字体：
-ÉÁÌå×Ö£º
 background: #f37500 -webkit-linear-gradient(left,#f37500,#ff1e00 10%,#c0f 80%,red) no-repeat 0 0;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
