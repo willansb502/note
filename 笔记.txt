@@ -11,3 +11,5 @@ text-decoration: underline;
 比较好看的字体：
 font-family: "Microsoft Yahei Light","Microsoft Yahei","Helvetica Neue","Helvetica","Arial",sans-serif;
  -webkit-font-smoothing: antialiased;
+ 
+ https://gitee.com/LycEcho/ai_write?_from=gitee_search
