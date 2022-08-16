@@ -13,3 +13,7 @@ font-family: "Microsoft Yahei Light","Microsoft Yahei","Helvetica Neue","Helveti
  -webkit-font-smoothing: antialiased;
  
  https://gitee.com/LycEcho/ai_write?_from=gitee_search
+
+https://github.com/LycEcho/Pseudo-original-AI
+http://cj.lycecho.com/document.v.2.1.php?key=xdg91xyy
+https://wwd.lanzoum.com/147seo
